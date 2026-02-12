@@ -1,0 +1,5 @@
+{
+  "name": "BEHASHOP",
+  "description": "Plateforme e-commerce professionnelle Ivoirienne. Gestion multi-espaces (Admin, Boutique, Client) sans inscription client obligatoire. Architecture optimisée pour Google Sheets en backend.",
+  "requestFramePermissions": []
+}
